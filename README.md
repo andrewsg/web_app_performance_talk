@@ -1,4 +1,4 @@
-wep_app_performance_talk
+web_app_performance_talk
 ========================
 
 iRuby notebook on web application performance optimization
